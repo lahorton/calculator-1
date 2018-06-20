@@ -23,3 +23,15 @@ def divide(num1, num2):
     """Divide the first input by the second and return the result."""
     b = num1 / num2
     return b
+
+
+def square(num1):
+    """Return the square of the input."""
+    c = num1 ** 2
+    return c
+
+
+def cube(num1):
+    """Return the cube of the input."""
+    d = num1 ** 3
+    return d
