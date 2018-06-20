@@ -21,6 +21,8 @@ def multiply(num1, num2):
 
 def divide(num1, num2):
     """Divide the first input by the second and return the result."""
+    b = num1 / num2
+    return b
 
 
 def square(num1):
@@ -37,3 +39,4 @@ def power(num1, num2):
 
 def mod(num1, num2):
     """Return the remainder of num1 / num2."""
+
