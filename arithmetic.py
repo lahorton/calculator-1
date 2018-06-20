@@ -27,7 +27,9 @@ def divide(num1, num2):
 
 def square(num1):
     """Return the square of the input."""
-
+    c = num1 ** 0.5
+    return c
+ 
 
 def cube(num1):
     """Return the cube of the input."""
