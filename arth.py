@@ -47,3 +47,9 @@ def mod(num1, num2):
     """Return the remainder of num1 / num2."""
     f = num1 % num2
     return f
+
+
+def square_root(num1):
+    """Return the square root of the input."""
+    g = num1 ** 0.5
+    return g
