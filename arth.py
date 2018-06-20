@@ -35,3 +35,15 @@ def cube(num1):
     """Return the cube of the input."""
     d = num1 ** 3
     return d
+
+
+def power(num1, num2):
+    """Raise num1 to the power of num2 and return the value."""
+    e = num1 ** num2
+    return e
+
+
+def mod(num1, num2):
+    """Return the remainder of num1 / num2."""
+    f = num1 % num2
+    return f
